@@ -1,0 +1,33 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environment
+venv/
+.venv/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Uni-app
+unpackage/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Large model files
+*.pth
+*.bin
+bert-base-chinese/

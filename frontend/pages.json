@@ -1,0 +1,121 @@
+// pages.json
+{
+  "pages": [
+	  {
+	  	"path": "pages/guide/guide",
+	  	      "style": {
+	  	        "navigationBarTitleText": "",          // 标题留空
+	  	        "navigationBarBackgroundColor": "#00000000",  // 透明背景（或你的渐变色）
+	  	        "navigationBarTextStyle": "white",
+	  	        "enablePullDownRefresh": false,
+	  	        "navigationStyle": "custom"
+	  	
+	  	}
+	  },
+	{
+	  "path": "pages/login/login",
+	  "style": {
+	    "navigationBarTitleText": "登录 知径"
+	  }
+	},
+    { "path": "pages/home/home", "style": { "navigationBarTitleText": "首页", "enablePullDownRefresh": true  } },
+    { "path": "pages/path/path", "style": { "navigationBarTitleText": "我的路径" } },
+    { "path": "pages/diary/diary", "style": { "navigationBarTitleText": "日记树洞" } },
+    { "path": "pages/mine/mine", "style": { "navigationBarTitleText": "我的" } },
+    { "path": "pages/square/square", "style": { "navigationBarTitleText": "广场" } },
+
+	{
+	  "path": "pages/info/list",
+	  "style": {
+	    "navigationBarTitleText": "全部推荐",
+	            "navigationBarBackgroundColor": "#fff",
+	            "navigationBarTextStyle": "black"
+	  }
+	},
+	{
+	  "path": "pages/mine/edit",
+	  "style": {
+	    "navigationBarTitleText": "编辑个人信息"
+	  }
+	},
+	{
+		"path": "pages/diary/diary_2/diary_2",
+		"style": {
+			"navigationBarTitleText": ""
+		}
+	},
+	
+	{
+		"path": "pages/diary/GardenPage_beiyong/GardenPage",
+		"style": {
+			"navigationBarTitleText": ""
+		}
+	},
+	{
+		"path": "pages/diary/EmotionGarden/EmotionGarden",
+		"style": {
+			"navigationBarTitleText": ""
+		}
+	},
+	{
+		"path": "pages/path1/path1",
+		"style": {
+			"navigationBarTitleText": "我的路径"
+		}
+	},
+	{
+		"path": "pages/path2/path2",
+		"style": {
+			"navigationBarTitleText": "",
+			 "enablePullDownRefresh": true
+		}
+	}
+	
+	
+	
+    // { "path": "pages/login/login", "style": { "navigationBarTitleText": "登录" } }
+  ],
+  "tabBar": {
+    "color": "#999",
+    "selectedColor": "#4A7DFF",
+    "backgroundColor": "#fff",
+    "borderStyle": "white",
+    "list": [
+      {
+        "pagePath": "pages/home/home",
+        "text": "首页",
+        "iconPath": "static/tab/home.png",
+        "selectedIconPath": "static/tab/home-active.png"
+      },
+      {
+        "pagePath": "pages/path2/path2",
+        "text": "我的路径",
+      "iconPath": "/static/tab/path1.png",
+      "selectedIconPath": "/static/tab/path.png"
+      },
+      {
+        "pagePath": "pages/square/square",
+        "text": "广场",
+        "iconPath": "/static/tab/square.png",
+        "selectedIconPath": "/static/tab/square1.png"
+      },
+      {
+        "pagePath": "pages/diary/diary",
+        "text": "日记",
+        "iconPath": "/static/tab/diary.png",
+        "selectedIconPath": "/static/tab/diary1.png"
+      },
+      {
+        "pagePath": "pages/mine/mine",
+        "text": "我的",
+        "iconPath": "static/tab/my1.png",
+        "selectedIconPath": "static/tab/my2.png"
+      }
+    ]
+  },
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarBackgroundColor": "#fff",
+    "backgroundColor": "#f5f5f5"
+  }
+}

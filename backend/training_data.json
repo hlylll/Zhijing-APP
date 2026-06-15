@@ -1,0 +1,1634 @@
+[
+  {
+    "text": "感觉有奇迹发生",
+    "behavior": {
+      "duration": 19,
+      "click_count": 3,
+      "delete_count": 3,
+      "selected_mood": 5,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 19,
+      "daily_count": 4,
+      "source_page": 0
+    },
+    "label": 5,
+    "date": "2026-02-25T11:10:45.699Z"
+  },
+  {
+    "text": "感觉今天完成了一个小目标，很有成就感\n",
+    "behavior": {
+      "duration": 379,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 1,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 19,
+      "daily_count": 5,
+      "source_page": 0
+    },
+    "label": 1,
+    "date": "2026-02-25T11:18:03.699Z"
+  },
+  {
+    "text": "今天收到了心仪公司的offer！准备了两个月的面试终于有了结果，薪资比预期还高。",
+    "behavior": {
+      "duration": 88,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 1,
+      "treehole": 0,
+      "streak_days": 6,
+      "hour": 19,
+      "daily_count": 6,
+      "source_page": 0
+    },
+    "label": 1,
+    "date": "2026-02-25T11:19:32.305Z"
+  },
+  {
+    "text": "和朋友去看了期待已久的电影，比想象中还要精彩！回家的路上看到夕阳特别美，顺手拍了几张照片发朋友圈，收到好多赞。平凡的一天因为有这些小确幸而闪闪发光✨",
+    "behavior": {
+      "duration": 16,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 1,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 19,
+      "daily_count": 7,
+      "source_page": 0
+    },
+    "label": 1,
+    "date": "2026-02-25T11:19:49.003Z"
+  },
+  {
+    "text": "今天是我和他在一起三周年纪念日。他悄悄准备了惊喜晚餐，还送了我一直想要的那本书。被爱包围的感觉真好，希望每一天都能这样温暖下去。",
+    "behavior": {
+      "duration": 23,
+      "click_count": 2,
+      "delete_count": 2,
+      "selected_mood": 1,
+      "treehole": 0,
+      "streak_days": 8,
+      "hour": 19,
+      "daily_count": 8,
+      "source_page": 0
+    },
+    "label": 1,
+    "date": "2026-02-25T11:20:12.818Z"
+  },
+  {
+    "text": "周末的早晨，阳光透过窗帘洒进来。泡了一杯花茶，坐在窗边看书。楼下的桂花开了，香味飘进来，整个房间都是秋天的味道。这样慢下来的时光真好。",
+    "behavior": {
+      "duration": 20,
+      "click_count": 2,
+      "delete_count": 0,
+      "selected_mood": 2,
+      "treehole": 0,
+      "streak_days": 9,
+      "hour": 19,
+      "daily_count": 9,
+      "source_page": 0
+    },
+    "label": 2,
+    "date": "2026-02-25T11:20:33.204Z"
+  },
+  {
+    "text": "今天尝试了瑜伽课，虽然动作不太标准，但做完感觉身心都放松了。回来的路上买了新鲜的蔬菜，给自己做了一顿简单的晚餐。学会爱自己，从这些小事情开始。",
+    "behavior": {
+      "duration": 11,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 2,
+      "treehole": 0,
+      "streak_days": 10,
+      "hour": 19,
+      "daily_count": 10,
+      "source_page": 0
+    },
+    "label": 2,
+    "date": "2026-02-25T11:20:44.634Z"
+  },
+  {
+    "text": "整理房间的时候翻到了大学时的日记本，看着那些稚嫩的文字，想起了很多美好的回忆。时间过得真快啊，庆幸自己一直在成长，也在努力成为更好的人。",
+    "behavior": {
+      "duration": 12,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 2,
+      "treehole": 0,
+      "streak_days": 12,
+      "hour": 19,
+      "daily_count": 12,
+      "source_page": 0
+    },
+    "label": 2,
+    "date": "2026-02-25T11:20:56.861Z"
+  },
+  {
+    "text": "今天看到一句话很有感触：“人生不是轨道，而是一片原野。”最近一直在纠结职业选择，担心走错路。但或许没有所谓的“正确”道路，每条路都有独特的风景吧。",
+    "behavior": {
+      "duration": 16,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 3,
+      "treehole": 0,
+      "streak_days": 13,
+      "hour": 19,
+      "daily_count": 13,
+      "source_page": 0
+    },
+    "label": 3,
+    "date": "2026-02-25T11:21:13.442Z"
+  },
+  {
+    "text": "晚上散步的时候，突然想到小时候的梦想是当科学家。虽然现在做着完全不同的工作，但那种对世界的好奇心好像还在。偶尔思考人生的意义，虽然想不明白，但这个过程本身就很有意思。",
+    "behavior": {
+      "duration": 12,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 3,
+      "treehole": 0,
+      "streak_days": 14,
+      "hour": 19,
+      "daily_count": 14,
+      "source_page": 0
+    },
+    "label": 3,
+    "date": "2026-02-25T11:21:25.752Z"
+  },
+  {
+    "text": "和一个许久不见的老朋友聊天，发现我们都变了很多，又好像都没变。聊起过去的傻事笑成一团，也聊了现在的困惑。成长大概就是，慢慢接受自己的不完美，也学会理解别人的选择。",
+    "behavior": {
+      "duration": 11,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 3,
+      "treehole": 0,
+      "streak_days": 15,
+      "hour": 19,
+      "daily_count": 15,
+      "source_page": 0
+    },
+    "label": 3,
+    "date": "2026-02-25T11:21:37.061Z"
+  },
+  {
+    "text": "今天工作上出了差错，被领导批评了。虽然知道是为我好，但还是有点难过。回家的路上突然下起雨，没带伞，淋了一身。希望明天一切都会好起来吧。",
+    "behavior": {
+      "duration": 19,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 4,
+      "treehole": 0,
+      "streak_days": 16,
+      "hour": 19,
+      "daily_count": 16,
+      "source_page": 0
+    },
+    "label": 4,
+    "date": "2026-02-25T11:21:56.480Z"
+  },
+  {
+    "text": "看到以前的朋友圈，想起了一些已经走散的朋友。明明曾经那么好，现在却连点赞都很少了。成年人的友谊，是不是就这样渐行渐远？有点难过，但也只能接受。",
+    "behavior": {
+      "duration": 12,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 4,
+      "treehole": 0,
+      "streak_days": 17,
+      "hour": 19,
+      "daily_count": 17,
+      "source_page": 0
+    },
+    "label": 4,
+    "date": "2026-02-25T11:22:09.065Z"
+  },
+  {
+    "text": "今天去医院看检查报告，医生说要注意休息。突然意识到自己最近太拼了，身体发出了警告。有点委屈，也有点害怕。以后一定要好好照顾自己。",
+    "behavior": {
+      "duration": 13,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 4,
+      "treehole": 0,
+      "streak_days": 18,
+      "hour": 19,
+      "daily_count": 18,
+      "source_page": 0
+    },
+    "label": 4,
+    "date": "2026-02-25T11:22:22.136Z"
+  },
+  {
+    "text": "明天就要去期待已久的旅行了！第一次一个人出国，虽然有点紧张但更多的是兴奋。收拾行李的时候反复检查了好几遍，恨不得现在就飞到机场。祝我好运！",
+    "behavior": {
+      "duration": 13,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 5,
+      "treehole": 0,
+      "streak_days": 19,
+      "hour": 19,
+      "daily_count": 19,
+      "source_page": 0
+    },
+    "label": 5,
+    "date": "2026-02-25T11:22:35.568Z"
+  },
+  {
+    "text": "今天抢到了偶像演唱会的门票！手速从来没这么快过，抢到的那一刻在办公室差点跳起来。已经开始幻想现场的气氛了，一定会超级嗨！",
+    "behavior": {
+      "duration": 11,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 5,
+      "treehole": 0,
+      "streak_days": 20,
+      "hour": 19,
+      "daily_count": 20,
+      "source_page": 0
+    },
+    "label": 5,
+    "date": "2026-02-25T11:22:46.888Z"
+  },
+  {
+    "text": "抽中了一等奖！上台领奖的时候手都在抖。2026年刚开始就这么幸运，感觉这一年都会顺顺利利的。准备请大家喝奶茶，一起分享这份喜悦！",
+    "behavior": {
+      "duration": 22,
+      "click_count": 4,
+      "delete_count": 7,
+      "selected_mood": 5,
+      "treehole": 0,
+      "streak_days": 21,
+      "hour": 19,
+      "daily_count": 21,
+      "source_page": 0
+    },
+    "label": 5,
+    "date": "2026-02-25T11:23:09.649Z"
+  },
+  {
+    "text": "马上要毕业了，身边的朋友都陆续确定了去向，考研的考研，工作的工作。我还在纠结是直接工作还是再读几年书。每个选择都有利弊，真的好难决定。",
+    "behavior": {
+      "duration": 12,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 6,
+      "treehole": 0,
+      "streak_days": 22,
+      "hour": 19,
+      "daily_count": 22,
+      "source_page": 0
+    },
+    "label": 6,
+    "date": "2026-02-25T11:23:21.927Z"
+  },
+  {
+    "text": "和室友因为小事闹矛盾了，其实没什么大问题，但两个人都拉不下脸先开口。明明想和好，却不知道怎么打破僵局。成年人的世界，连道歉都变得复杂了。",
+    "behavior": {
+      "duration": 9,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 6,
+      "treehole": 0,
+      "streak_days": 23,
+      "hour": 19,
+      "daily_count": 23,
+      "source_page": 0
+    },
+    "label": 6,
+    "date": "2026-02-25T11:23:31.731Z"
+  },
+  {
+    "text": "最近在学新技能，刚开始热情满满，现在遇到瓶颈期有点想放弃。但又觉得都坚持这么久了，放弃太可惜。不知道是该继续死磕，还是换条路试试。",
+    "behavior": {
+      "duration": 12,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 6,
+      "treehole": 0,
+      "streak_days": 24,
+      "hour": 19,
+      "daily_count": 24,
+      "source_page": 0
+    },
+    "label": 6,
+    "date": "2026-02-25T11:23:43.857Z"
+  },
+  {
+    "text": "今天在地铁上给一位老奶奶让座，她下车前特意走到我面前说“谢谢你，好孩子”，还从包里拿出一颗糖给我。一颗糖甜了一整天，原来善意真的会传递。",
+    "behavior": {
+      "duration": 318,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 1,
+      "treehole": 0,
+      "streak_days": 25,
+      "hour": 19,
+      "daily_count": 25,
+      "source_page": 0
+    },
+    "label": 1,
+    "date": "2026-02-25T11:29:02.278Z"
+  },
+  {
+    "text": "终于把拖了很久的论文初稿写完了！虽然还要修改，但迈出第一步的感觉太好了。奖励自己吃了一顿火锅，幸福感爆棚！",
+    "behavior": {
+      "duration": 18,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 1,
+      "treehole": 0,
+      "streak_days": 26,
+      "hour": 19,
+      "daily_count": 26,
+      "source_page": 0
+    },
+    "label": 1,
+    "date": "2026-02-25T11:29:20.840Z"
+  },
+  {
+    "text": "今天是个大晴天，把被子拿出去晒了晒，晚上钻进被窝的时候都是阳光的味道。突然觉得生活就是这样简单而美好。",
+    "behavior": {
+      "duration": 24,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 1,
+      "treehole": 0,
+      "streak_days": 27,
+      "hour": 19,
+      "daily_count": 27,
+      "source_page": 0
+    },
+    "label": 1,
+    "date": "2026-02-25T11:29:45.022Z"
+  },
+  {
+    "text": "下班路上遇到一只流浪猫，蹲下来摸了摸它，它居然蹭着我的腿不走了。去便利店买了根火腿肠，看它吃得香香的，心里也暖暖的。",
+    "behavior": {
+      "duration": 14,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 1,
+      "treehole": 0,
+      "streak_days": 28,
+      "hour": 19,
+      "daily_count": 28,
+      "source_page": 0
+    },
+    "label": 1,
+    "date": "2026-02-25T11:29:59.077Z"
+  },
+  {
+    "text": "今天学会了一道新菜，虽然卖相一般但味道还不错。发给妈妈看，她夸我长大了。被家人肯定的感觉真好。",
+    "behavior": {
+      "duration": 12,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 1,
+      "treehole": 0,
+      "streak_days": 29,
+      "hour": 19,
+      "daily_count": 29,
+      "source_page": 0
+    },
+    "label": 1,
+    "date": "2026-02-25T11:30:11.580Z"
+  },
+  {
+    "text": "早上六点自然醒，看到窗外的晨光特别美。泡了杯咖啡，坐在阳台上看完了这周的读书计划。这样的早晨让我觉得一天都充满能量。",
+    "behavior": {
+      "duration": 14,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 2,
+      "treehole": 0,
+      "streak_days": 30,
+      "hour": 19,
+      "daily_count": 30,
+      "source_page": 0
+    },
+    "label": 2,
+    "date": "2026-02-25T11:30:26.544Z"
+  },
+  {
+    "text": "今天和同事一起做了手工，虽然做得很慢，但专注做一件事的感觉真好。成品不算完美，却是独一无二的。有时候慢下来才能感受到生活的温度。",
+    "behavior": {
+      "duration": 16,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 2,
+      "treehole": 0,
+      "streak_days": 30,
+      "hour": 19,
+      "daily_count": 31,
+      "source_page": 0
+    },
+    "label": 2,
+    "date": "2026-02-25T11:30:43.043Z"
+  },
+  {
+    "text": "收到了远方朋友寄来的明信片，手写的文字总是特别有温度。在这个什么都快的时代，还有人愿意慢下来写信，真的很珍贵。",
+    "behavior": {
+      "duration": 16,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 2,
+      "treehole": 0,
+      "streak_days": 30,
+      "hour": 19,
+      "daily_count": 32,
+      "source_page": 0
+    },
+    "label": 2,
+    "date": "2026-02-25T11:30:59.850Z"
+  },
+  {
+    "text": "今天尝试了自己做酸奶，第一次居然成功了！加上蜂蜜和水果，比买的好吃多了。享受这种亲手创造的过程，简单又治愈。",
+    "behavior": {
+      "duration": 19,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 2,
+      "treehole": 0,
+      "streak_days": 30,
+      "hour": 19,
+      "daily_count": 33,
+      "source_page": 0
+    },
+    "label": 2,
+    "date": "2026-02-25T11:31:19.516Z"
+  },
+  {
+    "text": "晚饭后在小区里散步，看到很多邻居带着孩子在玩耍。老人们在树下聊天，有人在遛狗，有人慢跑。这就是生活本来的样子吧，平凡而温暖。",
+    "behavior": {
+      "duration": 16,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 2,
+      "treehole": 0,
+      "streak_days": 30,
+      "hour": 19,
+      "daily_count": 34,
+      "source_page": 0
+    },
+    "label": 2,
+    "date": "2026-02-25T11:31:36.356Z"
+  },
+  {
+    "text": "今天看到一句话：“不要因为结束而哭泣，要因为发生过而微笑。”想想那些曾经觉得过不去的坎，现在回头看都是成长。时间真的能改变很多。",
+    "behavior": {
+      "duration": 16,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 3,
+      "treehole": 0,
+      "streak_days": 30,
+      "hour": 19,
+      "daily_count": 35,
+      "source_page": 0
+    },
+    "label": 3,
+    "date": "2026-02-25T11:31:52.659Z"
+  },
+  {
+    "text": "和朋友讨论起“什么是成功”，有人说有钱，有人说有名。我觉得能按自己喜欢的方式过一生，就已经很成功了。每个人都有自己的节奏，不必跟别人比。",
+    "behavior": {
+      "duration": 27,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 3,
+      "treehole": 0,
+      "streak_days": 30,
+      "hour": 19,
+      "daily_count": 36,
+      "source_page": 0
+    },
+    "label": 3,
+    "date": "2026-02-25T11:32:19.786Z"
+  },
+  {
+    "text": "翻到妈妈年轻时的照片，才发现她曾经也是个爱美爱玩的姑娘。现在她把大部分时间都给了家庭。突然想对她说声谢谢，又有点不好意思开口。",
+    "behavior": {
+      "duration": 13,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 3,
+      "treehole": 0,
+      "streak_days": 30,
+      "hour": 19,
+      "daily_count": 37,
+      "source_page": 0
+    },
+    "label": 3,
+    "date": "2026-02-25T11:32:33.369Z"
+  },
+  {
+    "text": "今天思考了一个问题：为什么长大后觉得时间过得越来越快？可能是因为每天都是相似的重复。看来要给生活多创造一些“第一次”的体验。",
+    "behavior": {
+      "duration": 17,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 3,
+      "treehole": 0,
+      "streak_days": 30,
+      "hour": 19,
+      "daily_count": 38,
+      "source_page": 0
+    },
+    "label": 3,
+    "date": "2026-02-25T11:32:51.305Z"
+  },
+  {
+    "text": "读了一本关于冥想的书，开始尝试每天冥想十分钟。刚开始总是走神，但慢慢能感受到内心的平静。原来快乐也可以向内寻找。",
+    "behavior": {
+      "duration": 65,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 3,
+      "treehole": 0,
+      "streak_days": 30,
+      "hour": 19,
+      "daily_count": 39,
+      "source_page": 0
+    },
+    "label": 3,
+    "date": "2026-02-25T11:33:56.514Z"
+  },
+  {
+    "text": "今天路过以前常去的咖啡店，发现已经关门了。那是我和他以前常去的地方，虽然已经分手很久了，看到还是有点怅然若失。有些回忆，连地方都没了。",
+    "behavior": {
+      "duration": 16,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 4,
+      "treehole": 0,
+      "streak_days": 30,
+      "hour": 19,
+      "daily_count": 40,
+      "source_page": 0
+    },
+    "label": 4,
+    "date": "2026-02-25T11:34:12.591Z"
+  },
+  {
+    "text": "养了一年多的多肉，今天发现烂根了。明明很用心照顾，还是没能留住。有点挫败感，是不是有些事真的强求不来。",
+    "behavior": {
+      "duration": 35,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 4,
+      "treehole": 0,
+      "streak_days": 30,
+      "hour": 19,
+      "daily_count": 41,
+      "source_page": 0
+    },
+    "label": 4,
+    "date": "2026-02-25T11:34:48.531Z"
+  },
+  {
+    "text": "今天看到以前的好朋友发朋友圈，是和她的新朋友们出去玩。我们很久没联系了，有点难过，但也明白每个人都会有新的人生阶段。",
+    "behavior": {
+      "duration": 183,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 4,
+      "treehole": 0,
+      "streak_days": 30,
+      "hour": 19,
+      "daily_count": 42,
+      "source_page": 0
+    },
+    "label": 4,
+    "date": "2026-02-25T11:37:51.748Z"
+  },
+  {
+    "text": "今天工作上被客户刁难，明明不是我的错，还是要笑着道歉。下班后在地铁上突然很想哭，但忍住了。成年人的崩溃，都要挑时间地点。",
+    "behavior": {
+      "duration": 25,
+      "click_count": 2,
+      "delete_count": 0,
+      "selected_mood": 4,
+      "treehole": 0,
+      "streak_days": 30,
+      "hour": 19,
+      "daily_count": 43,
+      "source_page": 0
+    },
+    "label": 4,
+    "date": "2026-02-25T11:38:17.001Z"
+  },
+  {
+    "text": "给家里打电话，妈妈说爸爸最近腰又疼了，但一直不肯去医院。离得远帮不上忙，心里特别不是滋味。希望爸妈身体健康，等我回去好好陪他们。",
+    "behavior": {
+      "duration": 23,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 4,
+      "treehole": 0,
+      "streak_days": 30,
+      "hour": 19,
+      "daily_count": 44,
+      "source_page": 0
+    },
+    "label": 4,
+    "date": "2026-02-25T11:38:40.141Z"
+  },
+  {
+    "text": "下周要去面试dream company了！准备了很久，终于等来这个机会。这几天要好好准备，希望能拿到offer！",
+    "behavior": {
+      "duration": 18,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 5,
+      "treehole": 0,
+      "streak_days": 30,
+      "hour": 19,
+      "daily_count": 45,
+      "source_page": 0
+    },
+    "label": 5,
+    "date": "2026-02-25T11:38:58.998Z"
+  },
+  {
+    "text": "今天发现关注的乐队要来我所在的城市开演唱会！第一时间抢了票，虽然位置不太好但还是超兴奋。已经开始想象现场的尖叫了！",
+    "behavior": {
+      "duration": 8,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 5,
+      "treehole": 0,
+      "streak_days": 30,
+      "hour": 19,
+      "daily_count": 46,
+      "source_page": 0
+    },
+    "label": 5,
+    "date": "2026-02-25T11:39:07.637Z"
+  },
+  {
+    "text": "终于下定决心报了一个摄影课程，是我一直想学但没勇气尝试的。交了学费的那一刻既心疼又期待，希望能拍出好看的照片！",
+    "behavior": {
+      "duration": 13,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 5,
+      "treehole": 0,
+      "streak_days": 30,
+      "hour": 19,
+      "daily_count": 47,
+      "source_page": 0
+    },
+    "label": 5,
+    "date": "2026-02-25T11:39:21.135Z"
+  },
+  {
+    "text": "今天收到了好朋友要结婚的消息，邀请我去当伴娘！第一次当伴娘，已经开始想穿什么裙子、怎么化妆了。为她开心的同时自己也超兴奋！",
+    "behavior": {
+      "duration": 9,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 5,
+      "treehole": 0,
+      "streak_days": 30,
+      "hour": 19,
+      "daily_count": 48,
+      "source_page": 0
+    },
+    "label": 5,
+    "date": "2026-02-25T11:39:30.353Z"
+  },
+  {
+    "text": "明天就要开始期待已久的旅行了，机票酒店都订好了，攻略也做了好几版。今晚肯定兴奋得睡不着，但没关系，明天飞机上再补觉！",
+    "behavior": {
+      "duration": 9,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 5,
+      "treehole": 0,
+      "streak_days": 30,
+      "hour": 19,
+      "daily_count": 49,
+      "source_page": 0
+    },
+    "label": 5,
+    "date": "2026-02-25T11:39:39.925Z"
+  },
+  {
+    "text": "爸妈希望我回老家考公务员，说稳定。但我喜欢现在的城市和工作，虽然累但是有成就感。该怎么选择？不想让他们失望，也不想委屈自己。",
+    "behavior": {
+      "duration": 23,
+      "click_count": 2,
+      "delete_count": 0,
+      "selected_mood": 6,
+      "treehole": 0,
+      "streak_days": 30,
+      "hour": 19,
+      "daily_count": 50,
+      "source_page": 0
+    },
+    "label": 6,
+    "date": "2026-02-25T11:40:03.107Z"
+  },
+  {
+    "text": "今天听说以前的同学已经买房了，自己还在租房。虽然知道不要跟别人比，但还是会焦虑。是不是自己不够努力？这种感觉好难消化。",
+    "behavior": {
+      "duration": 17,
+      "click_count": 2,
+      "delete_count": 0,
+      "selected_mood": 6,
+      "treehole": 0,
+      "streak_days": 30,
+      "hour": 19,
+      "daily_count": 51,
+      "source_page": 0
+    },
+    "label": 6,
+    "date": "2026-02-25T11:40:20.388Z"
+  },
+  {
+    "text": "和男朋友吵架了，起因是一件小事，但后面吵着吵着都不知道在吵什么了。不知道该怎么沟通才能不伤害对方，好难。",
+    "behavior": {
+      "duration": 19,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 6,
+      "treehole": 0,
+      "streak_days": 30,
+      "hour": 19,
+      "daily_count": 52,
+      "source_page": 0
+    },
+    "label": 6,
+    "date": "2026-02-25T11:40:39.615Z"
+  },
+  {
+    "text": "想换工作，但又舍不得现在的同事和环境。新工作机会看起来不错，但又怕去了之后不适应。每天都在纠结中度过，好累。",
+    "behavior": {
+      "duration": 18,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 6,
+      "treehole": 0,
+      "streak_days": 30,
+      "hour": 19,
+      "daily_count": 53,
+      "source_page": 0
+    },
+    "label": 6,
+    "date": "2026-02-25T11:40:58.569Z"
+  },
+  {
+    "text": "今天被朋友说“你想太多了”，可是我觉得多想想有什么错呢？有时候真的搞不懂，到底是我想太多，还是他们想太少。",
+    "behavior": {
+      "duration": 15,
+      "click_count": 1,
+      "delete_count": 0,
+      "selected_mood": 6,
+      "treehole": 0,
+      "streak_days": 30,
+      "hour": 19,
+      "daily_count": 54,
+      "source_page": 0
+    },
+    "label": 6,
+    "date": "2026-02-25T11:41:14.366Z"
+  },
+  {
+    "text": "爸妈希望我回老家考公务员，说稳但我喜欢现在的城市和工作，虽然累但是有成就感。选择？不想让他们失望，也不想委屈自己。",
+    "behavior": {
+      "duration": 84,
+      "click_count": 8,
+      "delete_count": 6,
+      "selected_mood": 6,
+      "treehole": 0,
+      "streak_days": 30,
+      "hour": 19,
+      "daily_count": 55,
+      "source_page": 0
+    },
+    "label": 6,
+    "date": "2026-02-25T11:42:38.998Z"
+  },
+  {
+    "text": "和男朋友吵架了，起因是一件小事，但后面吵着着都不知道在吵什么了。不知道该怎么沟通才能不伤害对方，好难。",
+    "behavior": {
+      "duration": 67,
+      "click_count": 8,
+      "delete_count": 8,
+      "selected_mood": 6,
+      "treehole": 0,
+      "streak_days": 30,
+      "hour": 19,
+      "daily_count": 56,
+      "source_page": 0
+    },
+    "label": 6,
+    "date": "2026-02-25T11:43:46.247Z"
+  },
+  {
+    "text": "想换工作，但又舍不得现在的同事和环境。新工作机会看起来不错，但又怕去了之后不适应。每天都在纠结中度过，好累。",
+    "behavior": {
+      "duration": 53,
+      "click_count": 7,
+      "delete_count": 20,
+      "selected_mood": 6,
+      "treehole": 0,
+      "streak_days": 30,
+      "hour": 19,
+      "daily_count": 57,
+      "source_page": 0
+    },
+    "label": 6,
+    "date": "2026-02-25T11:44:40.037Z"
+  },
+  {
+    "text": "养了一年多的多肉，今天发现烂根了。很用心照顾，还是没能留住。有点挫败感，是不是有些事真的强求不来。",
+    "behavior": {
+      "duration": 51,
+      "click_count": 6,
+      "delete_count": 34,
+      "selected_mood": 4,
+      "treehole": 0,
+      "streak_days": 30,
+      "hour": 19,
+      "daily_count": 58,
+      "source_page": 0
+    },
+    "label": 4,
+    "date": "2026-02-25T11:45:31.550Z"
+  },
+  {
+    "text": "今天看到以前的好朋友发朋友圈，是和她的新朋友们出去玩。我们很久没联系了，有点难过，但也明白每个人都会有新的人生阶段。",
+    "behavior": {
+      "duration": 47,
+      "click_count": 10,
+      "delete_count": 45,
+      "selected_mood": 4,
+      "treehole": 0,
+      "streak_days": 30,
+      "hour": 19,
+      "daily_count": 59,
+      "source_page": 0
+    },
+    "label": 4,
+    "date": "2026-02-25T11:46:19.114Z"
+  },
+  {
+    "text": "今天工作上被客户刁难，明明不是我的错，还是要笑着道歉。下班后在地铁上突然很想哭，但忍住了。成年人的崩溃，都要挑时间地点。",
+    "behavior": {
+      "duration": 34,
+      "click_count": 5,
+      "delete_count": 93,
+      "selected_mood": 4,
+      "treehole": 0,
+      "streak_days": 30,
+      "hour": 19,
+      "daily_count": 60,
+      "source_page": 0
+    },
+    "label": 4,
+    "date": "2026-02-25T11:46:53.316Z"
+  },
+  {
+    "text": "给家里打电话，妈妈说爸爸最近腰又疼了，但一直不肯去医院。离得远帮不上忙，心里特别不是滋味。希望爸妈身体健康，等我回去好好陪他们。",
+    "behavior": {
+      "duration": 34,
+      "click_count": 8,
+      "delete_count": 18,
+      "selected_mood": 4,
+      "treehole": 0,
+      "streak_days": 30,
+      "hour": 19,
+      "daily_count": 61,
+      "source_page": 0
+    },
+    "label": 4,
+    "date": "2026-02-25T11:47:28.005Z"
+  },
+  {
+    "text": "和朋友讨论起“什么是成功”，有人说有钱，有人说有名。我觉得能按自己喜欢的方式过一生，就已经很成功了。每个人都有自己的节奏，不必跟别人比。",
+    "behavior": {
+      "duration": 20,
+      "click_count": 1,
+      "delete_count": 7,
+      "selected_mood": 4,
+      "treehole": 0,
+      "streak_days": 30,
+      "hour": 19,
+      "daily_count": 62,
+      "source_page": 0
+    },
+    "label": 4,
+    "date": "2026-02-25T11:47:48.112Z"
+  },
+  {
+    "text": "今天涨工资了！老板说上半年表现好，给我加了20%！晚上请同事喝了奶茶，大家都替我开心！",
+    "behavior": {
+      "duration": 65,
+      "click_count": 4,
+      "delete_count": 1,
+      "selected_mood": 1,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 18,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 1,
+    "date": "2026-02-25T12:01:37.813Z"
+  },
+  {
+    "text": "终于见到偶像了！签售会排了3小时队，但是握手的那一刻觉得一切都值了！他的手好温暖！",
+    "behavior": {
+      "duration": 85,
+      "click_count": 3,
+      "delete_count": 0,
+      "selected_mood": 1,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 15,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 1,
+    "date": "2026-02-25T12:01:37.813Z"
+  },
+  {
+    "text": "妈妈做的红烧肉太好吃了，吃了三碗饭。家的味道永远是最棒的！",
+    "behavior": {
+      "duration": 45,
+      "click_count": 2,
+      "delete_count": 0,
+      "selected_mood": 1,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 19,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 1,
+    "date": "2026-02-25T12:01:37.813Z"
+  },
+  {
+    "text": "今天被路人夸裙子好看，开心了一整天。原来快乐这么简单！",
+    "behavior": {
+      "duration": 40,
+      "click_count": 2,
+      "delete_count": 0,
+      "selected_mood": 1,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 14,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 1,
+    "date": "2026-02-25T12:01:37.813Z"
+  },
+  {
+    "text": "弟弟考上重点大学了！全家都很激动，我比他本人还高兴！",
+    "behavior": {
+      "duration": 55,
+      "click_count": 3,
+      "delete_count": 0,
+      "selected_mood": 1,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 20,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 1,
+    "date": "2026-02-25T12:01:37.813Z"
+  },
+  {
+    "text": "今天下雪了，和喜欢的人一起踩雪，咯吱咯吱的声音好治愈。",
+    "behavior": {
+      "duration": 60,
+      "click_count": 3,
+      "delete_count": 1,
+      "selected_mood": 1,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 21,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 1,
+    "date": "2026-02-25T12:01:37.813Z"
+  },
+  {
+    "text": "瘦了5斤！坚持健身两个月终于看到成果了，继续加油！",
+    "behavior": {
+      "duration": 50,
+      "click_count": 3,
+      "delete_count": 1,
+      "selected_mood": 1,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 22,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 1,
+    "date": "2026-02-25T12:01:37.813Z"
+  },
+  {
+    "text": "闺蜜说要来我的城市工作了，以后可以经常见面，太好了！",
+    "behavior": {
+      "duration": 55,
+      "click_count": 3,
+      "delete_count": 0,
+      "selected_mood": 1,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 16,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 1,
+    "date": "2026-02-25T12:01:37.813Z"
+  },
+  {
+    "text": "今天做了个特别美的梦，梦里还在笑。希望今晚还能接着做！",
+    "behavior": {
+      "duration": 35,
+      "click_count": 2,
+      "delete_count": 0,
+      "selected_mood": 1,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 9,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 1,
+    "date": "2026-02-25T12:01:37.813Z"
+  },
+  {
+    "text": "收到了期待已久的快递，拆箱的快乐谁懂啊！",
+    "behavior": {
+      "duration": 30,
+      "click_count": 2,
+      "delete_count": 0,
+      "selected_mood": 1,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 13,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 1,
+    "date": "2026-02-25T12:01:37.813Z"
+  },
+  {
+    "text": "周末的早晨，阳光透过窗帘洒进来。泡了一杯花茶，坐在窗边看书。这样慢下来的时光真好。",
+    "behavior": {
+      "duration": 180,
+      "click_count": 6,
+      "delete_count": 2,
+      "selected_mood": 2,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 10,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 2,
+    "date": "2026-02-25T12:01:37.813Z"
+  },
+  {
+    "text": "今天尝试了瑜伽课，虽然动作不太标准，但做完感觉身心都放松了。学会爱自己，从这些小事情开始。",
+    "behavior": {
+      "duration": 210,
+      "click_count": 7,
+      "delete_count": 3,
+      "selected_mood": 2,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 17,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 2,
+    "date": "2026-02-25T12:01:37.813Z"
+  },
+  {
+    "text": "整理房间的时候翻到了大学时的日记本，看着那些稚嫩的文字，想起了很多美好的回忆。庆幸自己一直在成长。",
+    "behavior": {
+      "duration": 260,
+      "click_count": 8,
+      "delete_count": 4,
+      "selected_mood": 2,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 15,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 2,
+    "date": "2026-02-25T12:01:37.813Z"
+  },
+  {
+    "text": "晚上在小区散步，看到很多邻居带着孩子玩耍，老人们在树下聊天。这就是生活本来的样子吧，平凡而温暖。",
+    "behavior": {
+      "duration": 150,
+      "click_count": 5,
+      "delete_count": 2,
+      "selected_mood": 2,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 20,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 2,
+    "date": "2026-02-25T12:01:37.813Z"
+  },
+  {
+    "text": "收到了远方朋友寄来的明信片，手写的文字总是特别有温度。在这个什么都快的时代，还有人愿意慢下来写信。",
+    "behavior": {
+      "duration": 140,
+      "click_count": 5,
+      "delete_count": 2,
+      "selected_mood": 2,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 16,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 2,
+    "date": "2026-02-25T12:01:37.813Z"
+  },
+  {
+    "text": "今天尝试了自己做酸奶，第一次居然成功了！加上蜂蜜和水果，比买的好吃多了。享受这种亲手创造的过程。",
+    "behavior": {
+      "duration": 165,
+      "click_count": 6,
+      "delete_count": 3,
+      "selected_mood": 2,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 14,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 2,
+    "date": "2026-02-25T12:01:37.814Z"
+  },
+  {
+    "text": "今天和同事一起做了手工，专注做一件事的感觉真好。成品不算完美，却是独一无二的。",
+    "behavior": {
+      "duration": 190,
+      "click_count": 6,
+      "delete_count": 3,
+      "selected_mood": 2,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 15,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 2,
+    "date": "2026-02-25T12:01:37.814Z"
+  },
+  {
+    "text": "早上六点自然醒，看到窗外的晨光特别美。泡了杯咖啡，坐在阳台上看完了这周的读书计划。",
+    "behavior": {
+      "duration": 200,
+      "click_count": 5,
+      "delete_count": 2,
+      "selected_mood": 2,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 6,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 2,
+    "date": "2026-02-25T12:01:37.814Z"
+  },
+  {
+    "text": "今天去公园晒太阳，看到很多花开了。春天真的来了，心情也跟着明媚起来。",
+    "behavior": {
+      "duration": 120,
+      "click_count": 4,
+      "delete_count": 1,
+      "selected_mood": 2,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 14,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 2,
+    "date": "2026-02-25T12:01:37.814Z"
+  },
+  {
+    "text": "今天读了一本好书，里面的很多话都触动了我。有时候文字就是最好的治愈。",
+    "behavior": {
+      "duration": 175,
+      "click_count": 5,
+      "delete_count": 2,
+      "selected_mood": 2,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 21,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 2,
+    "date": "2026-02-25T12:01:37.814Z"
+  },
+  {
+    "text": "今天看到一句话很有感触：'人生不是轨道，而是一片原野。'最近一直在纠结职业选择，但或许没有所谓的'正确'道路。",
+    "behavior": {
+      "duration": 320,
+      "click_count": 12,
+      "delete_count": 8,
+      "selected_mood": 3,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 23,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 3,
+    "date": "2026-02-25T12:01:37.814Z"
+  },
+  {
+    "text": "晚上散步的时候，突然想到小时候的梦想是当科学家。虽然现在做着完全不同的工作，但那种好奇心好像还在。",
+    "behavior": {
+      "duration": 280,
+      "click_count": 10,
+      "delete_count": 6,
+      "selected_mood": 3,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 22,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 3,
+    "date": "2026-02-25T12:01:37.814Z"
+  },
+  {
+    "text": "和一个许久不见的老朋友聊天，发现我们都变了很多，又好像都没变。成长大概就是慢慢接受自己的不完美。",
+    "behavior": {
+      "duration": 340,
+      "click_count": 13,
+      "delete_count": 9,
+      "selected_mood": 3,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 21,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 3,
+    "date": "2026-02-25T12:01:37.814Z"
+  },
+  {
+    "text": "翻到妈妈年轻时的照片，才发现她曾经也是个爱美爱玩的姑娘。现在她把大部分时间都给了家庭。",
+    "behavior": {
+      "duration": 290,
+      "click_count": 11,
+      "delete_count": 7,
+      "selected_mood": 3,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 20,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 3,
+    "date": "2026-02-25T12:01:37.814Z"
+  },
+  {
+    "text": "今天思考了一个问题：为什么长大后觉得时间过得越来越快？可能是因为每天都是相似的重复。",
+    "behavior": {
+      "duration": 260,
+      "click_count": 10,
+      "delete_count": 6,
+      "selected_mood": 3,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 23,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 3,
+    "date": "2026-02-25T12:01:37.814Z"
+  },
+  {
+    "text": "读了一本关于冥想的书，开始尝试每天冥想十分钟。原来快乐也可以向内寻找。",
+    "behavior": {
+      "duration": 210,
+      "click_count": 8,
+      "delete_count": 4,
+      "selected_mood": 3,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 22,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 3,
+    "date": "2026-02-25T12:01:37.814Z"
+  },
+  {
+    "text": "今天工作上出了差错，被领导批评了。虽然知道是为我好，但还是有点难过。希望明天一切都会好起来吧。",
+    "behavior": {
+      "duration": 280,
+      "click_count": 12,
+      "delete_count": 15,
+      "selected_mood": 4,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 23,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 4,
+    "date": "2026-02-25T12:01:37.814Z"
+  },
+  {
+    "text": "看到以前的朋友圈，想起了一些已经走散的朋友。明明曾经那么好，现在却连点赞都很少了。有点难过。",
+    "behavior": {
+      "duration": 320,
+      "click_count": 14,
+      "delete_count": 18,
+      "selected_mood": 4,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 23,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 4,
+    "date": "2026-02-25T12:01:37.814Z"
+  },
+  {
+    "text": "今天去医院看检查报告，医生说要注意休息。突然意识到自己最近太拼了，身体发出了警告。有点害怕。",
+    "behavior": {
+      "duration": 350,
+      "click_count": 15,
+      "delete_count": 20,
+      "selected_mood": 4,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 22,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 4,
+    "date": "2026-02-25T12:01:37.814Z"
+  },
+  {
+    "text": "和最好的朋友吵架了，其实都是小事，但谁也不肯低头。会不会就这样失去她了。",
+    "behavior": {
+      "duration": 290,
+      "click_count": 13,
+      "delete_count": 16,
+      "selected_mood": 4,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 23,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 4,
+    "date": "2026-02-25T12:01:37.814Z"
+  },
+  {
+    "text": "今天又被催婚了，压力好大。不是不想找，是真的没遇到合适的。",
+    "behavior": {
+      "duration": 240,
+      "click_count": 10,
+      "delete_count": 12,
+      "selected_mood": 4,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 22,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 4,
+    "date": "2026-02-25T12:01:37.814Z"
+  },
+  {
+    "text": "下雨天，一个人在家，有点想家了。想吃妈妈做的饭。",
+    "behavior": {
+      "duration": 180,
+      "click_count": 8,
+      "delete_count": 9,
+      "selected_mood": 4,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 20,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 4,
+    "date": "2026-02-25T12:01:37.814Z"
+  },
+  {
+    "text": "明天就要去期待已久的旅行了！第一次一个人出国，虽然有点紧张但更多的是兴奋！",
+    "behavior": {
+      "duration": 60,
+      "click_count": 4,
+      "delete_count": 1,
+      "selected_mood": 5,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 22,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 5,
+    "date": "2026-02-25T12:01:37.814Z"
+  },
+  {
+    "text": "今天抢到了偶像演唱会的门票！手速从来没这么快过，抢到的那一刻在办公室差点跳起来！",
+    "behavior": {
+      "duration": 45,
+      "click_count": 3,
+      "delete_count": 0,
+      "selected_mood": 5,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 10,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 5,
+    "date": "2026-02-25T12:01:37.814Z"
+  },
+  {
+    "text": "公司年会抽中了一等奖！上台领奖的时候手都在抖。2026年刚开始就这么幸运！",
+    "behavior": {
+      "duration": 55,
+      "click_count": 4,
+      "delete_count": 1,
+      "selected_mood": 5,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 21,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 5,
+    "date": "2026-02-25T12:01:37.814Z"
+  },
+  {
+    "text": "下周要去面试dream company了！准备了很久，终于等来这个机会！",
+    "behavior": {
+      "duration": 70,
+      "click_count": 5,
+      "delete_count": 2,
+      "selected_mood": 5,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 23,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 5,
+    "date": "2026-02-25T12:01:37.814Z"
+  },
+  {
+    "text": "今天发现关注的乐队要来我所在的城市开演唱会！第一时间抢了票，超兴奋！",
+    "behavior": {
+      "duration": 40,
+      "click_count": 3,
+      "delete_count": 0,
+      "selected_mood": 5,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 15,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 5,
+    "date": "2026-02-25T12:01:37.814Z"
+  },
+  {
+    "text": "终于下定决心报了一个摄影课程，是我一直想学但没勇气尝试的。期待能拍出好看的照片！",
+    "behavior": {
+      "duration": 65,
+      "click_count": 4,
+      "delete_count": 2,
+      "selected_mood": 5,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 20,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 5,
+    "date": "2026-02-25T12:01:37.814Z"
+  },
+  {
+    "text": "爸妈希望我回老家考公务员，说稳定。但我喜欢现在的城市和工作，虽然累但是有成就感。该怎么选择？",
+    "behavior": {
+      "duration": 420,
+      "click_count": 18,
+      "delete_count": 22,
+      "selected_mood": 6,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 23,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 6,
+    "date": "2026-02-25T12:01:37.814Z"
+  },
+  {
+    "text": "今天听说以前的同学已经买房了，自己还在租房。虽然知道不要跟别人比，但还是会焦虑。是不是自己不够努力？",
+    "behavior": {
+      "duration": 380,
+      "click_count": 16,
+      "delete_count": 19,
+      "selected_mood": 6,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 22,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 6,
+    "date": "2026-02-25T12:01:37.814Z"
+  },
+  {
+    "text": "和男朋友吵架了，起因是一件小事，但后面吵着吵着都不知道在吵什么了。不知道该怎么沟通才好。",
+    "behavior": {
+      "duration": 350,
+      "click_count": 15,
+      "delete_count": 17,
+      "selected_mood": 6,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 23,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 6,
+    "date": "2026-02-25T12:01:37.814Z"
+  },
+  {
+    "text": "想换工作，但又舍不得现在的同事和环境。新工作机会看起来不错，但又怕去了之后不适应。每天都在纠结。",
+    "behavior": {
+      "duration": 400,
+      "click_count": 17,
+      "delete_count": 20,
+      "selected_mood": 6,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 22,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 6,
+    "date": "2026-02-25T12:01:37.814Z"
+  },
+  {
+    "text": "今天被朋友说'你想太多了'，可是我觉得多想想有什么错呢？真的搞不懂，到底是我想太多，还是他们想太少。",
+    "behavior": {
+      "duration": 310,
+      "click_count": 13,
+      "delete_count": 15,
+      "selected_mood": 6,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 21,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 6,
+    "date": "2026-02-25T12:01:37.814Z"
+  },
+  {
+    "text": "要不要养宠物？很喜欢但怕照顾不好，也怕离别的那一天。好纠结啊。",
+    "behavior": {
+      "duration": 250,
+      "click_count": 11,
+      "delete_count": 12,
+      "selected_mood": 6,
+      "treehole": 0,
+      "streak_days": 7,
+      "hour": 20,
+      "daily_count": 1,
+      "source_page": 0
+    },
+    "label": 6,
+    "date": "2026-02-25T12:01:37.814Z"
+  }
+]

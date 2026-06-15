@@ -27,7 +27,7 @@ unpackage/
 .DS_Store
 Thumbs.db
 
-# Large model files
+# Large model files (excluding video files)
 *.pth
 *.bin
 bert-base-chinese/
